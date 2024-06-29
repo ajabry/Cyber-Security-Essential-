@@ -1,1 +1,0 @@
-- [Tradecraft Security Weekly (Video)](http://securityweekly.com)
